@@ -110,6 +110,7 @@ Places to find remote job postings:
 * [Ninjajobs](https://ninjajobs.org/)
 * [remote.co](https://remote.co/)
 * [builtin](https://builtin.com/companies/hiring/remote/type/security-industry-companies)
+* [OkJob](https://okjob.io/)
 
 Other lists
 * [yanirs/established-remote](https://github.com/yanirs/established-remote)
